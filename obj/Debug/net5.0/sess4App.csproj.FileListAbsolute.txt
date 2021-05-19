@@ -1,0 +1,16 @@
+C:\Users\nilla\Documents\GitHub\sess4local\bin\Debug\net5.0\sess4App.exe
+C:\Users\nilla\Documents\GitHub\sess4local\bin\Debug\net5.0\sess4App.deps.json
+C:\Users\nilla\Documents\GitHub\sess4local\bin\Debug\net5.0\sess4App.runtimeconfig.json
+C:\Users\nilla\Documents\GitHub\sess4local\bin\Debug\net5.0\sess4App.runtimeconfig.dev.json
+C:\Users\nilla\Documents\GitHub\sess4local\bin\Debug\net5.0\sess4App.dll
+C:\Users\nilla\Documents\GitHub\sess4local\bin\Debug\net5.0\ref\sess4App.dll
+C:\Users\nilla\Documents\GitHub\sess4local\bin\Debug\net5.0\sess4App.pdb
+C:\Users\nilla\Documents\GitHub\sess4local\obj\Debug\net5.0\sess4App.csprojAssemblyReference.cache
+C:\Users\nilla\Documents\GitHub\sess4local\obj\Debug\net5.0\sess4App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nilla\Documents\GitHub\sess4local\obj\Debug\net5.0\sess4App.AssemblyInfoInputs.cache
+C:\Users\nilla\Documents\GitHub\sess4local\obj\Debug\net5.0\sess4App.AssemblyInfo.cs
+C:\Users\nilla\Documents\GitHub\sess4local\obj\Debug\net5.0\sess4App.csproj.CoreCompileInputs.cache
+C:\Users\nilla\Documents\GitHub\sess4local\obj\Debug\net5.0\sess4App.dll
+C:\Users\nilla\Documents\GitHub\sess4local\obj\Debug\net5.0\ref\sess4App.dll
+C:\Users\nilla\Documents\GitHub\sess4local\obj\Debug\net5.0\sess4App.pdb
+C:\Users\nilla\Documents\GitHub\sess4local\obj\Debug\net5.0\sess4App.genruntimeconfig.cache
